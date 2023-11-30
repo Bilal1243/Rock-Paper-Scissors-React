@@ -1,0 +1,43 @@
+/* Container style */
+.game-details {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Individual details item style */
+  .details-item {
+    margin-bottom: 10px;
+  }
+  
+  .details-label {
+    font-weight: bold;
+    color: #3498db;
+  }
+  
+  .details-value {
+    margin-left: 10px;
+  }
+  
+  /* Rounds container style */
+  .rounds-container {
+    margin-top: 20px;
+  }
+  
+  /* Round details style */
+  .round {
+    border: 1px solid #3498db;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .round-label {
+    font-weight: bold;
+    color: #3498db;
+  }
+  
